@@ -1,5 +1,5 @@
 # Personal-Website
-Hosted at: [lolobq.github.io/personal-website/](lolobq.github.io/personal-website/)
+Hosted at: [Website](lolobq.github.io/personal-website/)
 
 This is a personal website I built using [Flutter](https://flutter.dev/) that deploys for free using [GitHub Pages](https://pages.github.com/).
 
