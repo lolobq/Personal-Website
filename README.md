@@ -1,7 +1,7 @@
 # Personal-Website
 Hosted at: [lolobq.github.io/personal-website/](lolobq.github.io/personal-website/)
 
-This is a personal website I built using Flutter that deploys for free using GitHub Pages.
+This is a personal website I built using [Flutter](https://flutter.dev/) that deploys for free using [GitHub Pages](https://pages.github.com/).
 
 ## Pages
 I created 5 main pages: home, about me, resume, projects, and contact.
