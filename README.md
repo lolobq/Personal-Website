@@ -1,7 +1,9 @@
 # Personal-Website
-This is a personal website I published using Flutter and GitHub Pages. I used VS Code as an IDE.
+Hosted at: lolobq.github.io/personal-website/
 
-## 1. Pages
+This is a personal website I built using Flutter that deploys for free using GitHub Pages.
+
+## Pages
 I created 5 main pages: home, about me, resume, projects, and contact.
 
 Home: Contains a picture of me and a small introduction to the website.
